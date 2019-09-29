@@ -8,6 +8,7 @@ npm install react-icons --save
 
 # STYLED-COMPONENTS
 https://www.styled-components.com/
+<br />
 npm install styled-components
 vscode-styled-components
 
